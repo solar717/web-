@@ -21,3 +21,9 @@ b) 反爬虫的处理
 ## 2.ichunqiu
 
 updated by ssam 20190531
+
+## 3.md处理idea
+
+1.图片
+
+https://blog.csdn.net/weixin_42350212/article/details/81285210
