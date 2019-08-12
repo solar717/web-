@@ -4,6 +4,8 @@
 
 简历 https://www.wondercv.com/cvs/hh0XPB0/editor 
 
+> exp 大佬的 js动态简历 （马一下）
+
 #### 1.[斗象科技](https://www.lagou.com/jobs/2772717.html?source=pl&i=pl-0)
 
 安全服务工程师
@@ -109,7 +111,7 @@
 
 12.HTTP
 
-
+2019-08-13 感谢信来了
 
 ### 3.58同城
 
@@ -142,7 +144,7 @@ https://zhaopin.kuaishou.cn/recruit/e/#/recruit/e/official/trainee/job-info/2979
 > 4、具有良好的沟通协调能力、较强的团队合作精神、优秀的执行能力；
 > 5、有很强的分析问题和解决问题的能力。
 >
-> 被拒
+> 被拒-简历被刷
 
 ### 5.字节跳动
 
@@ -162,6 +164,8 @@ https://zhaopin.kuaishou.cn/recruit/e/#/recruit/e/official/trainee/job-info/2979
 >  1）各大互联网SRC、其他主流平台提交过漏洞
 >  3）参加过 CTF 比赛，并在国家级比赛中获奖
 > 6、2020年毕业优先，实习6个月以上优先，计算机专业优先
+
+简历没人看
 
 ### 6.网易
 
@@ -188,12 +192,12 @@ https://zhaopin.kuaishou.cn/recruit/e/#/recruit/e/official/trainee/job-info/2979
 > 2019-7-31 ddl填了内推吗
 >
 > 2019-8-1 确定 8-3笔试 数据结构 算法 linux 三道大编程 
->
-> ![1565182222120](C:\Users\SSAM\AppData\Roaming\Typora\typora-user-images\1565182222120.png)
+
+> chmod权限 队列 二叉树 wireshark语句 ls-l MTU 排序算法 OS索引顺序文件 DexClassData 网站属性的目录安全性
+
+> 笔试未通过
 
 ### 7.携程
-
-![1565181263324](C:\Users\SSAM\AppData\Roaming\Typora\typora-user-images\1565181263324.png)
 
 > 岗位介绍
 
@@ -322,11 +326,11 @@ https://zhaopin.kuaishou.cn/recruit/e/#/recruit/e/official/trainee/job-info/2979
 
 
 
-11.深信服
+### 11.深信服
 
-12.阿里
+### 12.阿里 - ？？？ 没内推了
 
-13.jd
+### 13.jd
 
 ### 14.baidu
 
@@ -363,6 +367,34 @@ https://zhaopin.kuaishou.cn/recruit/e/#/recruit/e/official/trainee/job-info/2979
 -有专注于漏洞挖掘与利用技术研究者优先
 
 -有大型互联网渗透经验者优先
+
+>投了
+
+### 15 奇安信 
+
+>职位描述：
+
+>根到与大牛比肩，其实只隔着一个工位；
+在这里，工作的划分原则绝不是高低贵贱，而是是否专；。
+互联网公司的基因：轻松的工作氛围。
+与此同时，还有五险一金、补充医疗保险、带薪年假及各种各样的福利，而这一切，都等着你来发现啦~
+
+任职要求：
+1.熟练使用各种渗透测试工具（Burpsuite、Sqlmap、AWVS、Nmap、MSF、Cobalt Strike、Empire等）;
+
+2.至少掌握一门开发语言，操作语言不限 C/C++、Golang、Python、Java都可；
+
+3.掌握常见的攻防技术,对相关漏洞（web或二进制）的原理有深入的理解；
+
+4.具备一定的实战经验可独立完成渗透测试或参加过CTF、攻防竞赛；
+
+5.对安全有浓厚的兴趣,具备较强的独自钻研能力，有良好的团队精神。
+
+加分项：
+
+1.熟悉常见Windows,Linux运维技术;
+
+2.对后渗透有深入了解者更佳
 
 ### 面经 [学习之路]([https://github.com/CyC2018/CS-Notes/blob/master/notes/%E6%94%BB%E5%87%BB%E6%8A%80%E6%9C%AF.md#%E4%B8%89sql-%E6%B3%A8%E5%85%A5%E6%94%BB%E5%87%BB](https://github.com/CyC2018/CS-Notes/blob/master/notes/攻击技术.md#三sql-注入攻击))
 
